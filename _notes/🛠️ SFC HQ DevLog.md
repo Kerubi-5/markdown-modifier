@@ -1237,7 +1237,7 @@ Kim cleaned up the script and debugged it, and you can get it on his Github page
 - [[📄 Why good eggs should sell more and sleep well at night]]
 - [[📄 What if you just ask?]]
 - [[📄 Say less and get more sales]]
-- [[📄 What are you even saying?]]
+- [[📄 What are you even saying? (The case for speaking your buyer's language)]]
 
 ## For the devs and the nerds
 

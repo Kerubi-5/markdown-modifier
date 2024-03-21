@@ -1,15 +1,14 @@
 ---
-pubDate: 2023-07-03
+pubDate: 2024-03-13
 type: sfcContent
 tags:
   - Articles
-  - "ClientFilter"
-  - "Prospecting"
-  - "Avatar"
-  - "Targeting"
-  - "QualifyingBuyers"
+  - ClientFilter
+  - Avatar
+  - Targeting
+  - QualifyingBuyers
 title: "📄 Client filter: battle scars required"
-metaDescription: "Working with the wrong coaching or consulting client can be a disaster. Here's a quick filter to help you identify who to work with."
+metaDescription: Working with the wrong coaching or consulting client can be a disaster. Here's a quick filter to help you identify who to work with.
 ---
 
 ![](Media/SalesFlowCoach.app_Client-filter-batlescars-required_MartinStellar.jpg)
@@ -40,7 +39,7 @@ Because if they are, and they’re all excited and motivated and [[📄 Who to i
 
 A salty dog however, a seasoned business owner with failures and challenges and struggles behind them, that’s usually a far more workable type of individual.
 
-They bring humility, a student’s mindset - and they tend to work _with_ you, instead of _against_ you.
+They bring humility, a student’s mindset - and they tend to work **with** you, instead of **against** you.
 
 So if you want better clients and get more results for them, ask yourself:
 
@@ -49,3 +48,4 @@ This new buyer I’m talking to…
 Is this their first rodeo, or do they have battle scars?
 
 If not, you might do well to [[📄 Buyers That You Should Avoid Like the Plague|pass on the opportunity]], and look at more seasoned buyers instead...
+

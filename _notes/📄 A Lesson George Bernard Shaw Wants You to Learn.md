@@ -41,7 +41,7 @@ How does it differ from what I meant?
 
 What should I ask them, to figure out how to adjust the message I’m trying to communicate?
 
-That question - "[[📄 What are you even saying?|What did they hear me say]]?" is a very useful tool in all communication - and especially in the context of selling and signing on clients.
+That question - "[[📄 What are you even saying? (The case for speaking your buyer's language)|What did they hear me say]]?" is a very useful tool in all communication - and especially in the context of selling and signing on clients.
 
 And in fact, it's not just a question to ask yourself:
 

@@ -1,11 +1,12 @@
 ---
-pubDate: 2023-09-29
+pubDate: 2024-03-11
 tags:
   - Articles
   - SalesConversations
   - Permission
 pillar: Sales & selling
 type: sfcContent
+
 ---
 ![](Media/SalesFlowCoach.app_How-to-get-the-four-levels-of-permission-in-sales_MartinStellar.png)
 Selling without permission is coercion. You can’t morally or ethically have a sales conversation with someone who hasn’t given you permission for that type of conversation.
@@ -42,12 +43,13 @@ Asking for the sale is often the most daunting part of the entire sales process,
 
 When you do, [[📄 Permission & asking for the sale|asking for a sale]] will be as easy and natural as saying to a friend "So shall we catch that movie tonight?"
 
-In your case, you can simply ask: "Should we talk about how to make this deal official?"
+In your case, you can simply ask: "Should we talk about how to make this deal official?" or "Is this a good time to discuss how to get started?"
 
-Note that in all examples, the question is "Is it ok if we have *this* type of conversation?"
+Note that in all examples, the question is "Is it ok if we have **this** type of conversation?"
 
-This is important, because a sale happens in the context of a conversation. And it's your job to make sure you have the *right types* of conversation with your buyer, at the different stages of the sale, in the right order, as outlined above.
+This is important, because a sale happens in the context of a conversation. And it's your job to make sure you have the **right types** of conversation with your buyer, at the different stages of the sale, in the right order, as outlined above.
 
 Questions are the currency that buys you permission - including permission to ask for the sale.
+
 
 Further reading: **[[📄 What do I do when a sales conversation doesn't go anywhere?]]**

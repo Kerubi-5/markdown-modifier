@@ -4,7 +4,7 @@
   "description": "A tool to modify markdown files.",
   "type": "module",
   "scripts": {
-    "modify-markdown": "node modifyMarkdown.js"
+    "modify-markdown": "node markdownEditor.js"
   },
   "keywords": [],
   "author": "",

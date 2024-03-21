@@ -29,6 +29,6 @@ That’s ethics in selling. It’s looking out for your buyers, and it’s a per
 
 Good eggs sell more, and they sleep better - at least, that's how it should be.
 
-[[📄 On selling, entitlement, and service|When you’re an ethical person]], with a lot of integrity, never make the mistake of thinking that these character traits make selling (or enrolling buyers) harder - it doesn’t have to be that way and in fact:
+[[📄 On selling, entitlement, and service|When you’re an ethical person]], with a lot of integrity, you'd be mistaken to think that these character traits make selling (or enrolling buyers) harder - it doesn’t have to be that way and in fact:
 
 If you know your values and you lead with integrity, it makes selling a hell of a lot easier, and a lot more fun too.
